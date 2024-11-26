@@ -1,0 +1,24 @@
+[
+
+  {
+    "University Name": "IUBAT"
+  },
+  {
+    "student":{"name":"Hakim","id": "1001", "age":20, "city":"Kallayanpur"}
+  },
+  {
+    "student":{"name":"Noyon","id": "1002", "age":21, "city":"Shamoli"}
+  },
+  {
+  "student":{"name":"Salam","id": "1002", "age":22, "city":"New Dhaka"}
+},
+  {
+    "student":{"name":"Kalam","id": "1004", "age":21, "city":"New Paltan"}
+  },
+
+
+  { "id": "1001", "type": "Regular" },
+  { "id": "1002", "type": "Not Regular" },
+  { "id": "1003", "type": "Absent" },
+  { "id": "1004", "type": "Regular" }
+]
