@@ -1,24 +1,64 @@
-[
-
-  {
-    "University Name": "IUBAT"
-  },
-  {
-    "student":{"name":"Hakim","id": "1001", "age":20, "city":"Kallayanpur"}
-  },
-  {
-    "student":{"name":"Noyon","id": "1002", "age":21, "city":"Shamoli"}
-  },
-  {
-  "student":{"name":"Salam","id": "1002", "age":22, "city":"New Dhaka"}
-},
-  {
-    "student":{"name":"Kalam","id": "1004", "age":21, "city":"New Paltan"}
-  },
-
-
-  { "id": "1001", "type": "Regular" },
-  { "id": "1002", "type": "Not Regular" },
-  { "id": "1003", "type": "Absent" },
-  { "id": "1004", "type": "Regular" }
-]
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 20,
+      "location": "New York"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 22,
+      "location": "Los Angeles"
+    },
+    {
+      "id": 3,
+      "name": "Mark Johnson",
+      "age": 19,
+      "location": "Chicago"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "age": 21,
+      "location": "San Francisco"
+    },
+    {
+      "id": 5,
+      "name": "Michael Brown",
+      "age": 23,
+      "location": "Miami"
+    },
+    {
+      "id": 6,
+      "name": "Sarah Wilson",
+      "age": 18,
+      "location": "Houston"
+    },
+    {
+      "id": 7,
+      "name": "David Taylor",
+      "age": 24,
+      "location": "Dallas"
+    },
+    {
+      "id": 8,
+      "name": "Jessica Martinez",
+      "age": 20,
+      "location": "Boston"
+    },
+    {
+      "id": 9,
+      "name": "Chris Anderson",
+      "age": 22,
+      "location": "Seattle"
+    },
+    {
+      "id": 10,
+      "name": "Anna Thomas",
+      "age": 21,
+      "location": "Austin"
+    }
+  ]
+}
